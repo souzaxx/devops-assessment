@@ -55,4 +55,4 @@ all the resources mentioned above should exist on the same one namespace, and th
     - stage 2 : deploy the sample service to the cluster with a rollout strategy.
 
 
- ✨ Good Luck ✨# devops-assessment
+ ✨ Good Luck ✨
